@@ -120,8 +120,16 @@ svg{
 }
 .sec2{
     border-radius: 5px;
-    box-shadow: 5px 5px 5px 5px;
+    color: rgb(8, 2, 14);
+    box-shadow: 20px 20px 20px ;
     margin: 20px;
     padding: 50px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    background-color: rgb(122, 9, 243);
+    padding: 2em;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
 }
 
