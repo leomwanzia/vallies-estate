@@ -1,0 +1,58 @@
+/* reseet default styles */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: antiquewhite;
+}
+
+
+/* footer */
+
+#logo{
+    font-style: italic;
+    font-weight: 1000
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+    border-bottom: rgb(238, 204, 204) 2px solid;
+}
+
+#logo{
+    cursor: pointer;
+}
+
+.bar{
+    cursor: pointer;
+}
+
+.Navbar{
+    transition: all 0.3s ease 0s;
+}
+
+.Navbar{
+    color: aquamarine;
+    display: flex;
+    gap: 50px;
+    list-style: none;
+    text-decoration: none;
+}
+
+.bar{
+    padding: 10px;
+    background-color: rgb(147, 147, 176);
+    border: none;
+    border-radius: 50px;
+    cursor:pointer;
+    transition:all 0.3s ease 0s;
+}
+
+a{
+    text-decoration: none;
+}
+
