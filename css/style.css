@@ -78,7 +78,7 @@ a{
 }
 
 
-h2{
+h2.make{
     font-weight: lighter;
     font-size:20px;
 
@@ -104,7 +104,7 @@ h2{
 
 }
 
-img{
+img.image{
     float: right;
     margin-right: 5rem;
 }
@@ -146,6 +146,7 @@ svg{
     font-size: xx-large;
     font-family: 'Times New Roman', Times, serif;
     font-weight: 900;
+    align-items: center;
 
 }
 
@@ -153,15 +154,12 @@ svg{
     font-size: x-large;
     font-weight: 800;
     font-size: xx-large;
+    align-items: center;
 }
 
 #our{
     font-size: xx-large;
     font-weight: 900;
     font-style: normal;
-    padding-top: 100px;
-}
-
-.products{
-    padding-top: 100 px;
+    align-items: center;
 }
