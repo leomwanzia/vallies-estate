@@ -295,5 +295,16 @@ svg{
     padding-top: 100px;
     font-family: 'Times New Roman', Times, serif;
     font-size: xx-large;
-    
+    height: fit-content;
+    text-align: center;
+    color: rgb(139, 95, 184);
+}
+
+.esteemed{
+    padding-top: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    height: fit-content;
+    text-align: center;
+    color: rgb(139, 95, 184);
 }
