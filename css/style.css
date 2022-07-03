@@ -105,6 +105,7 @@ h2.make{
     font-size: xx-large;
     font-family: Arial, Helvetica, sans-serif;
     padding: 50px;
+    margin-top: 0em;
 
 }
 
@@ -223,4 +224,6 @@ svg{
 #create{
     color: black;
     font-style: italic;
+    font: 300;
 }
+
