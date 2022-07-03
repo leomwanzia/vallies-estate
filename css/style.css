@@ -173,7 +173,7 @@ svg{
     justify-items: center;
     font-style: italic;
     font-size: xx-large;
-    
+    margin-bottom: 7rem;
 }
 
 .find{
@@ -218,4 +218,9 @@ svg{
     font-size: larger;
     box-shadow: 20px 20px 20px ;
     
+}
+
+#create{
+    color: black;
+    font-style: italic;
 }
