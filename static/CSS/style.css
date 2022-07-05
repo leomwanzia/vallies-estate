@@ -1,4 +1,3 @@
-/* reseet default styles */
 
 * {
     margin: 0;
@@ -300,6 +299,7 @@ svg{
     color: rgb(139, 95, 184);
 }
 
+
 .esteemed{
     padding-top: 100px;
     font-family: 'Times New Roman', Times, serif;
@@ -310,5 +310,4 @@ svg{
     font-size: x-large;
     box-shadow: 20px 20px 20px rgb(234, 206, 196);
     padding-bottom: 50px;
-
 }
